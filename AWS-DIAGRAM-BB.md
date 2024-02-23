@@ -19,8 +19,7 @@
 
 # BaridiBaridi Proposed AWS Architecture
 # 🧙‍♂️
-
-![BaridiBaridi Cloud Architecture](https://github.com/patzpaull/dummy/assets/159112522/1bdce07e-bd0a-4b01-821d-dba9b05075ee)
+![BaridiBaridi Cloud Architecture](https://github.com/patzpaull/Aws-Architecture-BB/assets/159112522/bdc3c4d8-c8d4-4c64-ac1f-08fb6c57edd0)
 
 ## Overview:
 - This document provides an overview of the <strong>New AWS Infrastructure</strong> designed for a Europe-based application. 
